@@ -1,2 +1,4 @@
 venv
 num*.txt
+.vscode
+__pycache__
